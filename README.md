@@ -1,3 +1,5 @@
 # cits4404-project
-This is a private repository for CITS4404 - Artificial Intelligence and Adaptive Systems
-Counterfactual explanations can be used to explain predictions of individual instances, to overcome the blackbox model[Christoph Molnar]. Therefore, our project is going to explain the relationship between the inputs and the outcome to be predicted by a "black box" Machine Learning model, at a glance it looks at counterfactual explanations in general including health, finance, marketing and etc.
+
+This is an academic repository for CITS4404 - Artificial Intelligence and Adaptive Systems
+
+Increased computing power allows development of increasingly accurate machine learning models.  This increase in accuracy is generally accompanied by an increase in model complexity.  We often have a `blackbox model', a model which receives inputs and makes outputs, or predictions, with little visibility possible into the mechanics of the model, or reasons a prediction was made.  `Explainable Artificial Intelligence' or `XAI' is an active research area, seeking to develop methods to explain the reasons for model output to users.  One method of explanation is to use `Counterfactual Explanations'.  Herein we examine some currently available python modules that cater for Counterfactual Explanations, and select some for further analysis and implementation.
