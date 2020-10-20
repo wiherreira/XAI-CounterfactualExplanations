@@ -1,4 +1,4 @@
-# cits4404 - Final Project, Counterfactual Explanations, 2nd Sem. 2020
+# CITS4404 - Final Project, Counterfactual Explanations, 2nd Sem. 2020
 
 This is an academic repository for CITS4404 - Artificial Intelligence and Adaptive Systems
 
